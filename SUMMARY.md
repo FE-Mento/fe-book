@@ -9,3 +9,4 @@
       - [🎯 Chapter 3: HTTP 기본](cs/http-guide/ch3.md)
       - [🎯 Chapter 4: HTTP 메서드](cs/http-guide/ch4.md)
       - [🎯 Chapter 5: HTTP 메서드 활용](cs/http-guide/ch5.md)
+      - [🎯 Chapter 6: HTTP 상태코드](cs/http-guide/ch6.md)
