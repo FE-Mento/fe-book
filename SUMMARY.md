@@ -11,3 +11,4 @@
       - [🎯 Chapter 5: HTTP 메서드 활용](cs/http-guide/ch5.md)
       - [🎯 Chapter 6: HTTP 상태코드](cs/http-guide/ch6.md)
       - [🎯 Chapter 7: HTTP 헤더1 -일반헤더](cs/http-guide/ch7.md)
+      - [🎯 Chapter 8: Http 헤더2 - 캐시와 조건부 요청](cs/http-guide/ch8.md)
