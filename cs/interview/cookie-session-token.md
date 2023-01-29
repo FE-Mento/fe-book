@@ -1,9 +1,6 @@
 # 🎯 cookie, session token 차이점
 
-<aside>
 💡 [참고 링크](https://velog.io/@ahsy92/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-Session%EA%B3%BC-Cookie-Token)
-
-</aside>
 
 ## 🍄 쿠키(cookie)
 
