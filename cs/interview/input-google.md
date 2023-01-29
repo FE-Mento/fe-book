@@ -1,9 +1,6 @@
 # 🎯 ‘www.google.com’을 주소창에서 입력하면 일어나는 일
 
-<aside>
 💡 [참고링크](https://velog.io/@eassy/www.google.com%EC%9D%84-%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%EC%84%9C-%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC)
-
-</aside>
 
 ### 1. 사용자가 웹 브라우저 검색창에 `www.google.com` 을 입력한다.
 
